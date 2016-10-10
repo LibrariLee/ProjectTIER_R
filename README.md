@@ -1,6 +1,6 @@
-# The TIER Documentation Protocol v2.0 for R
+#Project TIER Framework Demo
 
-## Overview 
+# The TIER Documentation Protocol v2.0 for R
 
 The TIER Documentation Protocol provides instructions for assembling a 
 set of electronic files that document all the steps of data processing 
